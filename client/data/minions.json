@@ -963,7 +963,7 @@
               "fk_name": "Wrong Eye & Snapjaw",
               "type": "wardude",
               "fury": 4,
-              "base": "small",
+              "base": "medium",
               "width": 60,
               "height": 60,
               "img": {
